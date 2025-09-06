@@ -1,0 +1,36 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large files
+*.h5
+*.ckpt
+*.dll
+*.lib
+*.pkl
+
+# Data
+*.csv
+*.json
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
